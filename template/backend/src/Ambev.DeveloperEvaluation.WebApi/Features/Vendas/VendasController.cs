@@ -20,7 +20,7 @@ public class VendasController : ControllerBase
     {
         var list = _service.Listar().Select(v => _service.ToResponse(v));
         return Ok(list);
-    }
+    }   
 
     [HttpGet("{id:guid}")]
     public IActionResult Get(Guid id)
