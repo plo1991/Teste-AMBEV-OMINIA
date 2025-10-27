@@ -1,6 +1,4 @@
-# Teste AMBEV OMINIA
-
-60# Developer Evaluation Project
+# Developer Evaluation Project
 
 `READ CAREFULLY`
 
